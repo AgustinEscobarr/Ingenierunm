@@ -1,0 +1,12 @@
+//import Estudiante from './js/estudiante.js';
+//let estudiante1 = new Estudiante(40913893, 'Agustin', 'Escobar', 'Ingenieria', 'agustin.escobar55@outlook.es');
+//let estudiante2 = new Estudiante(30214598, 'Fabricio', 'Gonzales', 'Biotecnologia', 'fabriziogonz22@gmail.com');
+//let estudiante3 = new Estudiante(41236545, 'Aldana', 'Fernandez', 'Comunicación Social', 'feznanaldana99@gmail.com');
+//let estudiante4 = new Estudiante(21202356, 'Roberto', 'Gimenez', 'Gestion Ambiental', 'robertmenez70@outlook.com');
+//let estudiante5 = new Estudiante(29895432, 'Natalia', 'Carrizo', 'Contador Publico', 'carrizoNata80@hotmail.com');
+//let estudiante6 = new Estudiante(28651278, 'Hernesto', 'Guevara', 'Administracion de Empresas', 'hernyguevara9@gmail.com');
+//let estudiante7 = new Estudiante(32389465, 'Ricardo', 'Escobar', 'Economia', 'richardescobar86@gmail.com');
+//let estudiante8 = new Estudiante(40653245, 'Juan', 'Garay', 'Ingeniería', 'garayjuancito22@gmail.com');
+//let estudiante9 = new Estudiante(28459778, 'Mariana', 'Gutierrez', 'Ingeniería', 'marianaguti12@outlook.com');
+//let estudiante10 = new Estudiante(39458798, 'Francisco', 'Gomez', 'Relaciones del Trabajo', 'frangomez9993@yahoo.com');
+//let estudiante = [estudiante1, estudiante2, estudiante3, estudiante4, estudiante5, estudiante6, estudiante7, estudiante8, estudiante9, estudiante10];

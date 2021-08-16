@@ -1,0 +1,31 @@
+{
+    "carreras": [{
+            "nombre": "Ingenieria en Electrónica",
+            "orientaciones": ["Redes", "Aplicaciones Agropecuarias", "Multimedios"],
+            "vicedecano": "Gabriel Venturino",
+            "email": "",
+            "consejeria": ""
+        },
+        {
+            "nombre": "Gestion Ambiental",
+            "orientaciones": [],
+            "vicedecano": "",
+            "email": "",
+            "consejeria": ""
+        },
+        {
+            "nombre": "",
+            "orientaciones": [],
+            "vicedecano": "",
+            "email": "",
+            "consejeria": ""
+        },
+        {
+            "nombre": "",
+            "orientaciones": [],
+            "vicedecano": "",
+            "email": "",
+            "consejeria": ""
+        }
+    ]
+}

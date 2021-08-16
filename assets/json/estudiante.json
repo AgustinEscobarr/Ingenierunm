@@ -1,0 +1,128 @@
+{
+    "info": {
+        "paginas": "a",
+        "cantidadDeEstudiantes": "a"
+    },
+    "estudiantes": [{
+            "dni": 40913893,
+            "nombres": "Agustin",
+            "apellidos": "Escobar",
+            "mail": "agustinescobaring@gmail.com",
+            "carreras": ["Ingenieria en Electronica"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        },
+        {
+            "dni": 22516161,
+            "nombre": "Roberto",
+            "apellido": "Figueroa",
+            "mail": "robertofigarofigaro@gmail.com",
+            "carreras": ["Ingenieria en Electronica", "Ballet Clasica", "Biotecnologia"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        },
+        {
+            "dni": 3216654,
+            "nombre": "Isabel",
+            "apellido": "Palombo",
+            "mail": "isabelpalombo22@gmail.com",
+            "carreras": ["Ingenieria en Electronica"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        },
+        {
+            "dni": 21684543,
+            "nombre": "Carlos",
+            "apellido": "Fernandez",
+            "mail": "agustinescobaring@gmail.com",
+            "carreras": ["Ingenieria en Electronica"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        },
+        {
+            "dni": 22123545,
+            "nombre": "Fabian",
+            "apellido": "Schneider",
+            "mail": "agustinescobaring@gmail.com",
+            "carreras": ["Ingenieria en Electronica"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        },
+        {
+            "dni": 21684543,
+            "nombre": "Carlos",
+            "apellido": "Fernandez",
+            "mail": "agustinescobaring@gmail.com",
+            "carreras": ["Ingenieria en Electronica"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        },
+        {
+            "dni": 21684543,
+            "nombre": "Carlos",
+            "apellido": "Fernandez",
+            "mail": "agustinescobaring@gmail.com",
+            "carreras": ["Ingenieria en Electronica"],
+            "calificaciones": [{
+                "materia": "a",
+                "carreraMateria": "a",
+                "nota": "a",
+                "comentarios": "a",
+                "categoriaEvaluada": "a"
+            }],
+            "materiasAprobadas": [],
+            "materiasInscriptas": []
+
+        }
+
+    ]
+
+}

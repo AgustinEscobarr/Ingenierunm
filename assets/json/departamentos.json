@@ -1,0 +1,24 @@
+{
+    "departamentos": [{
+            "nombre": "Ciencias aplicadas y tecnologia",
+            "carreras": ["Ingenieria en Electrónica", "Biotecnología", "Gestion Ambiental"],
+            "interno": 25,
+            "mail": "dcayt@unm.com.ar",
+            "edificio": "Edificio Historio 2do Piso"
+        },
+        {
+            "nombre": "Economia y Administracion",
+            "carreras": ["Licenciatura en Economia", "Contador Publico Nacional", "Licenciatura en Administración de empresas"],
+            "interno": 23,
+            "mail": "eya@unm.com.ar",
+            "edificio": "Edificio Historico 1er Piso"
+        },
+        {
+            "nombre": "Humanidades y Ciencias Sociales",
+            "carreras": ["Trabajo Social", "Comunicacion Social", "Educacion nivel secundaria", "Educacion nivel inicial"],
+            "interno": 22,
+            "mail": "hycs@unm.com.ar",
+            "edificio": "Edificio P planta baja"
+        }
+    ]
+}

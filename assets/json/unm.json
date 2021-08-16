@@ -1,0 +1,18 @@
+{
+    "unm": [{
+        "titulo": "Campus Virtual",
+        "descripcion": "Espacio usado como repositorio y aula virutal por los profesores.",
+        "imagen": "http://campusvirtual.unm.edu.ar/moodle/pluginfile.php/1/core_admin/logo/0x200/1625871951/logo_unm.png",
+        "link": "http://campusvirtual.unm.edu.ar/moodle/login/index.php"
+    }, {
+        "titulo": "UNM",
+        "descripcion": "Pagina principal de la Universidad Nacional de Moreno.",
+        "imagen": "http://www.unm.edu.ar/images/UNM_blue_logo.jpg",
+        "link": "http://www.unm.edu.ar"
+    }, {
+        "titulo": "SIU Guaraní",
+        "descripcion": "Sistema de gestion Online, para anotarse a las materias y otros tramites.",
+        "imagen": "http://gestiononline.unm.edu.ar/unm3w/rs.php/img/logo-transparente.png",
+        "link": "http://gestiononline.unm.edu.ar/unm3w/"
+    }]
+}

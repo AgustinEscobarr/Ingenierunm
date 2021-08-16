@@ -1,0 +1,202 @@
+{
+    "aportes": [{
+            "nombre": "Notas de Física 2",
+            "aporteMateria": "Fisica 2",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2017,
+            "imagenAporte": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+
+        },
+        {
+            "nombre": "Notas de Algebra Lineal",
+            "aporteMateria": "Algebra y geometría analitica",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2020,
+            "imagenAporte": "https://images.unsplash.com/photo-1597589827703-f4b68eafa0ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=965&q=80"
+
+        },
+        {
+            "nombre": "Compuertas Logicas",
+            "aporteMateria": "Tecnicas digitales 1",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2019,
+            "imagenAporte": "https://images.unsplash.com/photo-1596496181871-9681eacf9764?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1064&q=80"
+        },
+        {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }, {
+            "nombre": "Lentes",
+            "aporteMateria": "Optica y Sonido",
+            "fuente": "https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/Termodinamica_2011.pdf",
+            "añoAporte": 2021,
+            "imagenAporte": "https://images.unsplash.com/photo-1619990662329-66123e474467?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80"
+
+        }
+    ]
+}

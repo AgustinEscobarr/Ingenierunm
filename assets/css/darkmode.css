@@ -1,0 +1,13 @@
+.darkmode {
+    --primary: #404040 !important;
+    --light: #343441!important;
+    background-color: var(--light);
+}
+
+.darkmode .color-text {
+    color: aliceblue;
+}
+
+.darkmode #footer-color-force {
+    color: #212122;
+}

@@ -1,0 +1,76 @@
+{
+    "aulas": [{
+            "cantidadDeAlumnos": 60,
+            "razonDelAula": "Fisica 2",
+            "duracionDelAula": 120,
+            "duenioDelAula": "Pablo Juarez"
+        },
+        {
+            "cantidadDeAlumnos": 30,
+            "razonDelAula": "Quimica General",
+            "duracionDelAula": 60,
+            "duenioDelAula": "Graciela Albarracin"
+        },
+        {
+            "cantidadDeAlumnos": 50,
+            "razonDelAula": "Taller de expresion oral y escrito",
+            "duracionDelAula": 180,
+            "duenioDelAula": "Romina Pascaretta"
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        },
+        {
+            "cantidadDeAlumnos": 0,
+            "razonDelAula": "",
+            "duracionDelAula": 0,
+            "duenioDelAula": ""
+        }
+
+    ]
+}

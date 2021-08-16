@@ -1,0 +1,27 @@
+{
+    "contactos": [{
+            "titulo": "Grupo de Facebook",
+            "link": "https://www.facebook.com/groups/202903659739936",
+            "numero": "",
+            "imagen": "https://scontent.fepa12-1.fna.fbcdn.net/v/t1.18169-9/942617_587913431232772_1002634495_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8631f5&_nc_eui2=AeFjTj9URAkgylVICeui6A210OWGjYktCqHQ5YaNiS0KofmhbIKBSUE3-3XDTRDHYsNzHP5m_rzeyHr_ChLeYRoB&_nc_ohc=YL-x5TnORJkAX9h-Jrh&_nc_ht=scontent.fepa12-1.fna&oh=2727dc19ea08d7e0866f3a1c42cfa068&oe=60FC2838"
+        },
+        {
+            "titulo": "Grupo de Discord",
+            "link": "",
+            "numero": "",
+            "imagen": "https://www.muycomputer.com/wp-content/uploads/2021/05/Discord-acuerdo-PlayStation.jpg"
+        },
+        {
+            "titulo": "Grupo de Telegram",
+            "link": "",
+            "numero": "",
+            "imagen": "https://blog.phonehouse.es/wp-content/uploads/2019/12/teelgram.png"
+        },
+        {
+            "titulo": "Grupo de Whatsapp",
+            "link": "",
+            "numero": "",
+            "imagen": "https://d500.epimg.net/cincodias/imagenes/2018/03/07/lifestyle/1520415982_970134_1520416489_noticia_normal.jpg"
+        }
+    ]
+}

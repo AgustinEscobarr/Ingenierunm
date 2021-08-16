@@ -1,0 +1,61 @@
+{
+    "profesores": [{
+            "nombres": "Edgardo",
+            "apellidos": "Palomar",
+            "materias": ["Fisica 1", "Optica y Sonido"],
+            "carreras": ["Ingenieria en Electrónica"],
+            "email": "edgarpalomar1985@gmail.com"
+        },
+        {
+            "nombres": "Agustin",
+            "apellidos": "Escobar",
+            "materias": ["Optica y Sonido"],
+            "carreras": ["Ingeniería en Electrónica"],
+            "email": "agustinescobaring@gmail.com"
+        },
+        {
+            "nombres": "",
+            "apellidos": "",
+            "materias": [""],
+            "carreras": [""],
+            "email": ""
+        },
+        {
+            "nombres": "",
+            "apellidos": "",
+            "materias": [""],
+            "carreras": [""],
+            "email": ""
+        },
+        {
+            "nombres": "",
+            "apellidos": "",
+            "materias": [""],
+            "carreras": [""],
+            "email": ""
+        },
+        {
+            "nombres": "",
+            "apellidos": "",
+            "materias": [""],
+            "carreras": [""],
+            "email": ""
+        },
+        {
+            "nombres": "",
+            "apellidos": "",
+            "materias": [""],
+            "carreras": [""],
+            "email": ""
+        },
+        {
+            "nombres": "",
+            "apellidos": "",
+            "materias": [""],
+            "carreras": [""],
+            "email": ""
+        }
+
+    ]
+
+}
